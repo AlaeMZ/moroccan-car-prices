@@ -33,6 +33,7 @@ class RawListing:
     description: str | None = None
     price_mad: int | None = None
     price_text: str | None = None
+    
 
     brand: str | None = None
     model: str | None = None
